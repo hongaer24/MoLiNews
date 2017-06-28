@@ -1,0 +1,9 @@
+<app:android.support.v7.widget.Toolbar android:id="@+id/toolbar_msg"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/colorPrimaryDark"
+    app:navigationIcon="@mipmap/e992f21e86250f3478ee7e650ef5a958"
+    app:titleTextColor="@color/colorwhite"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    </app:android.support.v7.widget.Toolbar >
